@@ -14,3 +14,16 @@ A lightweight, high-performance Python utility designed to statically analyze sc
    ```bash
    git clone [https://github.com/YOUR_USERNAME/ai-code-reviewer.git](https://github.com/YOUR_USERNAME/ai-code-reviewer.git)
    cd ai-code-reviewer
+   python code_reviewer.py
+   🤝 Custom Development & Inquiries
+Need a custom automation script, specific code analyzer, or a tailored feature built for your workflow? Let’s connect! Drop a message or reach out via my profile.
+
+📄 License
+This project is open-source and available under the MIT License.
+
+
+---
+
+Как только создашь этот файл и закинешь в репозиторий, твоя страница на GitHub будет выглядеть супер солидно! 
+
+Сделать сразу шаблон README для **второго (Lead Generator)** и **третьего (Resume Tailor)** проектов?
